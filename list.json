@@ -1,0 +1,84 @@
+{
+"list":[
+  {
+    "sNo": "1",
+    "Name": "Tomato",
+    "Qnty": "150",
+    "Unit": "kg",
+    "Type": "Vegetable",
+    "Price": "80 INR"
+  },
+  {
+    "sNo": "2",
+    "Name": "Onion",
+    "Qnty": "250",
+    "Unit": "Kg",
+    "Type": "Vegetable",
+    "Price": "60 INR"
+  },
+  {
+    "sNo": "3",
+    "Name": "Oil",
+    "Qnty": "100",
+    "Unit": "Litre",
+    "Type": "Grocery",
+    "Price": "210 INR"
+  },
+  {
+    "sNo": "4",
+    "Name": "Rice",
+    "Qnty": "680",
+    "Unit": "kg",
+    "Type": "grocery",
+    "Price": "59 INR"
+  },
+  {
+    "sNo": "5",
+    "Name": "Salt",
+    "Qnty": "500",
+    "Unit": "Kg",
+    "Type": "grocery",
+    "Price": "43 INR"
+  },
+  {
+    "sNo": "6",
+    "Name": "Soap",
+    "Qnty": "370",
+    "Unit": "Numbers",
+    "Type": "grocery",
+    "Price": "30 INR"
+  },
+  {
+    "sNo": "7",
+    "Name": "Apple",
+    "Qnty": "270",
+    "Unit": "Kg",
+    "Type": "Fruits",
+    "Price": "86 INR"
+  },
+  {
+    "sNo": "8",
+    "Name": "Mango",
+    "Qnty": "483",
+    "Unit": "kg",
+    "Type": "fruits",
+    "Price": "80 INR"
+  },
+  {
+    "sNo": "9",
+    "Name": "Pine Apple",
+    "Qnty": "345",
+    "Unit": "kg",
+    "Type": "fruits",
+    "Price": "190 INR"
+  },
+  {
+    "sNo": "10",
+    "Name": "Stawberry",
+    "Qnty": "10",
+    "Unit": "kg",
+    "Type": "Fruits",
+    "Price": "178 INR"
+  }
+  
+]}
