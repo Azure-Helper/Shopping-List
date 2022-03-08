@@ -20,7 +20,7 @@
     "sNo": "3",
     "Name": "Oil",
     "Qnty": "100",
-    "Unit": "li",
+    "Unit": "litre",
     "Type": "Grocery",
     "Price": "210 INR"
   },
@@ -44,7 +44,7 @@
     "sNo": "6",
     "Name": "Soap",
     "Qnty": "370",
-    "Unit": "",
+    "Unit": "number",
     "Type": "Grocery",
     "Price": "30 INR"
   },
